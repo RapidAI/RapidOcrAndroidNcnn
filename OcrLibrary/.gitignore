@@ -1,0 +1,5 @@
+/build
+/.cxx
+/src/main/ncnn
+/src/main/ncnn-vulkan
+/src/sdk
